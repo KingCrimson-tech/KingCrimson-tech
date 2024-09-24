@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Chinmay
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning from Harvard's CS50
 - 📫 How to reach me chinmaypatiluvce@gmail.com
 
 
