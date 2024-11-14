@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chinmay
-- 📫 How to reach me chinmaypatiluvce@gmail.com
+- 📫 How to reach me chinmayrpatil123@gmail.com
 
 
 
