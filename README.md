@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Chinmay
 - 📫 How to reach me chinmayrpatil123@gmail.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingCrimson-tech)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
